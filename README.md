@@ -26,7 +26,7 @@
 
 ## Description
 
-Starter template for your next 
+Starter template for your next express project.
 
 - [NestJs](https://github.com/nestjs/nest)
 - [Express](https://github.com/expressjs/express)
